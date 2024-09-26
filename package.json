@@ -1,11 +1,11 @@
 {
-  "name": "vanilla-app-template",
+  "name": "module12-lesson2",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/vanilla-app-template/",
+    "build": "vite build --base=/module12-lesson2/",
     "preview": "vite preview"
   },
   "devDependencies": {
